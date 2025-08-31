@@ -12,8 +12,8 @@
 ###
 
 <div align="center">
-  
-![3D Snake animation](https://github.com/AdminJupiter/AdminJupiter/blob/output/github-contribution-grid-snake.svg)
+
+![3D Snake Animation](https://github.com/AdminJupiter/AdminJupiter/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
