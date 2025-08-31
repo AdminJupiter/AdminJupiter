@@ -11,11 +11,7 @@
 
 ###
 
-<div align="center">
 
-![3D Snake Animation](https://github.com/AdminJupiter/AdminJupiter/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ###
 
@@ -98,9 +94,4 @@
 ###
 
 <div align="center">
-  
-## ⚡ Fun Fact
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=7E3FCE&hideBorder=false&qColor=7E3FCE&aColor=7E3FCE")
-
-</div>
