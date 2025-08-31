@@ -1,5 +1,5 @@
-<h2 align="center">👋 Hello World! I'm [Your Name]</h2>
-<h3 align="center">A passionate [Your Role] from [Your Location]</h3>
+<h2 align="center">👋 Hello World! I'm AdminJupiter</h2>
+<h3 align="center">A passionate Student from CCDI</h3>
 
 ###
 
